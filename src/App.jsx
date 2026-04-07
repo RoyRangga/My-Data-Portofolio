@@ -345,11 +345,11 @@ const App = () => {
                       <Github className="w-4 h-4 mr-3" />
                       View on GitHub
                     </a>
-                    <a href="https://l1nq.com/bvgja62" target="_blank" rel="noreferrer" className="flex items-center text-sm text-slate-600 hover:text-blue-600 transition-colors p-2 hover:bg-slate-50 rounded-lg">
+                    <a href="https://app.powerbi.com/view?r=eyJrIjoiNTc1MTM0MWItZDdhYi00YzFjLTlmNjktOTJkMzU5ODYyNTQ4IiwidCI6IjVhNzQ5MDBhLTY2MTItNDNmNS1hYWRhLWNmZDA2NmFlMTVhMSIsImMiOjN9&pageName=631299695139e759062e" target="_blank" rel="noreferrer" className="flex items-center text-sm text-slate-600 hover:text-blue-600 transition-colors p-2 hover:bg-slate-50 rounded-lg">
                       <BarChart className="w-4 h-4 mr-3" />
                       Power BI Visualization
                     </a>
-                    <a href="https://public.tableau.com/shared/CJM" target="_blank" rel="noreferrer" className="flex items-center text-sm text-slate-600 hover:text-blue-600 transition-colors p-2 hover:bg-slate-50 rounded-lg">
+                    <a href="https://public.tableau.com/views/JobMarketAnalyzer/DataJobMapping?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer" className="flex items-center text-sm text-slate-600 hover:text-blue-600 transition-colors p-2 hover:bg-slate-50 rounded-lg">
                       <BarChart className="w-4 h-4 mr-3" />
                       Tableau Visualization
                     </a>
